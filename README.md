@@ -23,6 +23,10 @@ Output:
 14. Push both the R markdown file (.Rmd) and the generated .html files to the new folder you created previously.
 15. Embed the course logo in the root Readme using Markdown 
 
+![]("data science logo.png")
+
+
+
 16. Link your R Markdown report using Markdown 
 
 🚀 Stretch Goals: Terminal Challenge
