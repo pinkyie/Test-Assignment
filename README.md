@@ -22,6 +22,7 @@ Output:
 13. In your R markdown file add a code snippt box that solves 1 + 1
 14. Push both the R markdown file (.Rmd) and the generated .html files to the new folder you created previously.
 15. Embed the course logo in the root Readme using Markdown 
+
 16. Link your R Markdown report using Markdown 
 
 🚀 Stretch Goals: Terminal Challenge

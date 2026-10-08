@@ -10,6 +10,9 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 # R Markdown
+```{r}
+1+1
+```
 
 ## version control
 
