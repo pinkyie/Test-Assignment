@@ -8,6 +8,7 @@ To complete this assignment please do not use the website GUI unless specificall
 3. Add your name to the README.md file online (via the GitHub website) and include an informative commit message.
 4. Jessica Trotter, please commit using the green "commit changes" button 
 5. Add your name to the R script then push this change using Git in RStudio.
+Jessica Trotter, use the green up arrow to push changes
 6. Add comments into the R script describing what each line does, then push these changes to Github.
 7. Edit .gitignore to exclude .Rproj.user files.  Your commit message must briefly explain why this file type should be ignored .
 8. Add a text file with your favourite colour to the root of the repository. 
